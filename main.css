@@ -14,4 +14,10 @@ button {
 .diceSection {
     padding: 2rem;
     text-align: center;
+    font-size: 20pt;
+}
+
+#diceResults {
+    text-align: center;
+    font-size: 20pt;
 }
