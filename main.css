@@ -21,3 +21,9 @@ button {
     text-align: center;
     font-size: 20pt;
 }
+
+td, th {
+    padding: 1rem;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
