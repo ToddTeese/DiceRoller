@@ -10,3 +10,8 @@ main {
 button {
     padding: 0.5rem;
 }
+
+.diceSection {
+    padding: 2rem;
+    text-align: center;
+}
